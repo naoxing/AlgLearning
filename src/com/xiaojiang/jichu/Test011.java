@@ -63,7 +63,6 @@ public class Test011 {
             slow = slow.next;
             quick = quick.next.next;
         }
-        System.out.println("我已经修改了,你更新一下");
         return true;
     }
 
